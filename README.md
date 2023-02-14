@@ -1,4 +1,4 @@
-### Olá! 👋 Eu sou a Wilka Santos
+### Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu sou a Wilka Santos
 
 <div>
 <a href ="https://github.com/wilkaSantos"></a>
