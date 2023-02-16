@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/wilka-santos-4b810714b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
   </a>&nbsp;
-  <a href="" target="_blank">
+  <a href="https://discord.com/invite/WilkaSantos#3222" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>&nbsp;
   <a href = "mailto:">
