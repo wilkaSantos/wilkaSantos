@@ -5,10 +5,11 @@
 <br/>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wilkaSantos&bg_color=26282c&color=8760c3&line=ff6aba&point=ff6aba&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
+<br>
 <div align="center">
   <a href ="https://github.com/wilkaSantos">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wilkaSantos&show_icons=true&theme=dracula&include_all_commits=true">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkaSantos&layout=compact&langs_count=16&theme=dracula">
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wilkaSantos&show_icons=true&theme=dracula&include_all_commits=true">
+  <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkaSantos&layout=compact&langs_count=16&theme=dracula">
 </div>  
 <br>
 <div align="center">
