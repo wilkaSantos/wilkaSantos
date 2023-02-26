@@ -9,7 +9,8 @@
 <div align="center">
   <a href ="https://github.com/wilkaSantos">
   <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wilkaSantos&show_icons=true&theme=dracula&include_all_commits=true">
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkaSantos&layout=compact&langs_count=16&theme=dracula">
+  &nbsp;
+  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkaSantos&layout=compact&langs_count=16&theme=dracula">
 </div>  
 <br>
 <div align="center">
