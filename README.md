@@ -1,10 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8760c3&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Wilka+Santos;Sou+Desenvolvedora+Front-End;Sejam+Bem+Vindos!+:%29)](https://git.io/typing-svg)
 <br/>
-<br/>
-<br/>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wilkaSantos&bg_color=26282c&color=8760c3&line=ff6aba&point=ff6aba&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br>
 <br>
 <div align="center">
   <a href ="https://github.com/wilkaSantos">
