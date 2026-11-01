@@ -1,41 +1,45 @@
-<br>
-<div align="center">
-  <a href ="https://github.com/wilkaSantos">
-  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wilkaSantos&show_icons=true&theme=dracula&include_all_commits=true">
-  &nbsp;
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkaSantos&layout=compact&langs_count=16&theme=dracula">
-</div>  
-<br>
-<div align="center">
-  <a href="https://www.linkedin.com/in/wilka-santos-4b810714b/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
-  </a>&nbsp;
-  <a href="https://discord.com/invite/WilkaSantos#3222" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  </a>&nbsp;
-  <a href = "mailto:">
-    <img src="https://img.shields.io/badge/-Gmail-9e2a2b?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
-  
-  ### Minhas skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)<br>
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)<br>
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)
 
+## Olá! Eu sou Desenvolvedor Full Stack 👋
 
- ### Estudando neste momento:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)<br>
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)<br>
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)
+Sou **Analista de Sistemas e Desenvolvedor Full Stack**, com experiência em desenvolvimento de APIs REST, integração de sistemas, automação de processos e construção de interfaces web.
 
+Atuando no desenvolvimento de soluções que buscam otimizar processos, reduzir atividades manuais e agregar valor ao negócio.
 
-<!--
+## Hard Skills
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
-<br>
-</div>
+**Backend**
+- Node.js
+- APIs REST
+- PL/SQL
+- TypeScrip
 
--->
+**Frontend**
+- JavaScript
+- React
+- CSS
+- Vite
+
+**Automação e Integração**
+- Power Automate
+- Azure Document Intelligence
+
+**Versionamento**
+- Git
+- GitHub
+- GitLab
+- AWS
+
+## Experiência em Projetos
+
+- **Integração de Sistemas:** desenvolvimento de APIs REST para processamento de documentos fiscais, extração e validação de dados e integração com sistemas de negócio.
+- **Desenvolvimento Frontend:** criação de aplicações internas utilizando React, JavaScript e Vite, com prototipação no Figma.
+- **Automação de Processos:** implementação de fluxos automatizados para processamento de documentos e integração com serviços de inteligência documental.
+- **Qualidade de Software:** experiência com testes unitários, testes End-to-End e suporte técnico em sistemas críticos de negócio.
+
+## Atualmente
+
+Buscando evolução contínua em desenvolvimento de software, integração de sistemas e automação, explorando novas tecnologias e boas práticas para construir soluções eficientes e escaláveis.
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/wilka-santos-4b810714b/)
